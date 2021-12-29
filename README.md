@@ -1,5 +1,3 @@
-![header](header.svg)
-
 ## Who am I?
 
 🧙‍♂️ My name is Abel Fernández, but I go by @abefernan on some sites. I'm a Frontend Developer who does remote work as a freelance.
