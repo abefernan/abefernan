@@ -35,10 +35,10 @@ My most familiar knowledge and workflow have to do with making React apps and de
 
 👷‍♂️ Some things that I have done or contributed to, to some extent:
 
-- ![Fundación Barrié's website](https://fundacionbarrie.org): Implemented the design with CSS and Zurb Foundation
-- ![IOV's component library](https://github.com/iov-one/ponferrada/tree/master/packages/medulas-react-components): Added and maintained a few components, and implemented form validators
-- ![IOV's UI logic library](https://github.com/iov-one/ponferrada/tree/master/packages/ui-logic): Added and maintained several functions
-- ![IOV's browser extension](https://github.com/iov-one/ponferrada/tree/master/packages/sanes-browser-extension): Worked with TS + React + Material UI on several redesigns
-- ![IOV's wallet app](https://github.com/iov-one/ponferrada/tree/master/packages/bierzo-wallet): Started its development with TS + React + Material UI and worked on several redesigns
-- ![IOV's governance app](https://github.com/iov-one/ponferrada/tree/master/packages/sil-governance): Implemented from the ground up with TS + React + Material UI
-- ![IOV's iov-core library](https://github.com/iov-one/iov-core): Made some minor contribution to testing for transactions
+- [Fundación Barrié's website](https://fundacionbarrie.org): Implemented the design with CSS and Zurb Foundation
+- [IOV's component library](https://github.com/iov-one/ponferrada/tree/master/packages/medulas-react-components): Added and maintained a few components, and implemented form validators
+- [IOV's UI logic library](https://github.com/iov-one/ponferrada/tree/master/packages/ui-logic): Added and maintained several functions
+- [IOV's browser extension](https://github.com/iov-one/ponferrada/tree/master/packages/sanes-browser-extension): Worked with TS + React + Material UI on several redesigns
+- [IOV's wallet app](https://github.com/iov-one/ponferrada/tree/master/packages/bierzo-wallet): Started its development with TS + React + Material UI and worked on several redesigns
+- [IOV's governance app](https://github.com/iov-one/ponferrada/tree/master/packages/sil-governance): Implemented from the ground up with TS + React + Material UI
+- [IOV's iov-core library](https://github.com/iov-one/iov-core): Made some minor contribution to testing for transactions
