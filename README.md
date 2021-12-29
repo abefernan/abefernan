@@ -12,7 +12,7 @@
 
 My most familiar knowledge and workflow have to do with making React apps and deploying them. Below you can find a list of technologies and tools that I'm comfortable working with, but I'm also very keen on picking up new ones.
 
-### 🚀Technologies
+### 🚀 Technologies
 
 - JavaScript ES2020
 - TypeScript
@@ -22,7 +22,7 @@ My most familiar knowledge and workflow have to do with making React apps and de
 - Material-UI
 - Docker with Compose
 
-### 🔧Tools
+### 🔧 Tools
 
 - Windows 10 or Linux-based OS
 - Visual Studio Code
