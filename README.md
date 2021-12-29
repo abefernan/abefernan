@@ -1,4 +1,7 @@
-<svg fill="none" viewBox="0 0 800 2000" width="800" height="2000" xmlns="http://www.w3.org/2000/svg">
+<div align="center">
+	<br>
+	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
+		<svg fill="none" viewBox="0 0 800 2000" width="800" height="2000" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
 		<div id="body" xmlns="http://www.w3.org/1999/xhtml">
 			<style>
@@ -696,3 +699,8 @@ h3 {
 		</div>
 	</foreignObject>
 </svg>
+	</a>
+	<br>
+</div>
+
+
